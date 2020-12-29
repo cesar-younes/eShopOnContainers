@@ -314,3 +314,5 @@ terraform.rc
 
 # Local variables file
 .env
+
+.terraform.lock.hcl
